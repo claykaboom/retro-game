@@ -2,9 +2,9 @@
 
 ## Participantes
 
-**Game Master (GM)**: *<uma pessoa>* no início de jogo. Papel rotativo nas outras etapas.
-**Time**: Todos
-**Memory Dragon Monster**: Todos os players (rotativo).
+* **Game Master (GM)**: *<uma pessoa>* no início de jogo. Papel rotativo nas outras etapas.
+* **Time**: Todos
+* **Memory Dragon Monster**: Todos os players (rotativo).
 
 ## Enredo
 
